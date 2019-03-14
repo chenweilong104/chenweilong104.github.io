@@ -12,6 +12,7 @@ a ,body{
 .side-bar {
     float: left;
     width: 20%;
+    position: fixed;
 }
 .side-bar > *{
     padding: 10px 15px;
